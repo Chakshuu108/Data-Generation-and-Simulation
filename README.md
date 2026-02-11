@@ -75,8 +75,6 @@ It achieved the **lowest MSE (≈ 0.252353)**, making it the **best-performing m
 
 ## 🖼️ Result Screenshot
 
-Add your result image in the repository (for example inside a folder called `images/`) and link it here:
+<img width="457" height="307" alt="image" src="https://github.com/user-attachments/assets/70e32ff2-31f4-4550-a711-671557ae1dc2" />
 
-```markdown
-<img width="457" height="307" alt="image" src="https://github.com/user-attachments/assets/0a010a34-3c62-43f3-8f46-0043a4cc2184" />
 
