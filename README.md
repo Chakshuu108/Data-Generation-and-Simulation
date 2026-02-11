@@ -78,5 +78,5 @@ It achieved the **lowest MSE (≈ 0.252353)**, making it the **best-performing m
 Add your result image in the repository (for example inside a folder called `images/`) and link it here:
 
 ```markdown
-![Model Comparison Output](<img width="457" height="307" alt="image" src="https://github.com/user-attachments/assets/0a010a34-3c62-43f3-8f46-0043a4cc2184" />
-)
+<img width="457" height="307" alt="image" src="https://github.com/user-attachments/assets/0a010a34-3c62-43f3-8f46-0043a4cc2184" />
+
